@@ -1,4 +1,4 @@
-package creationalPatterns.FactoryMethod;
+package creationalPatterns.FactoryMethod.Framework;
 
 public abstract class Product {
 
