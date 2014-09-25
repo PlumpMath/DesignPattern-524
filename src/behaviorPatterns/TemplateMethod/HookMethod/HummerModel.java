@@ -1,4 +1,4 @@
-package creationalPatterns.TemplateMethod.HookMethod;
+package behaviorPatterns.TemplateMethod.HookMethod;
 
 public abstract class HummerModel {
 

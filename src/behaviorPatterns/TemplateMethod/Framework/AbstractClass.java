@@ -1,4 +1,4 @@
-package creationalPatterns.TemplateMethod.Framework;
+package behaviorPatterns.TemplateMethod.Framework;
 
 public abstract class AbstractClass {
 

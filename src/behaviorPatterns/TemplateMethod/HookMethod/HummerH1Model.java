@@ -1,4 +1,4 @@
-package creationalPatterns.TemplateMethod.HookMethod;
+package behaviorPatterns.TemplateMethod.HookMethod;
 
 public class HummerH1Model extends HummerModel {
 	
