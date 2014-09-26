@@ -5,7 +5,7 @@ public class Proxy implements Subject {
 	private Subject subject = null;
 
 	public Proxy() {
-		subject = new Proxy();
+		subject = new RealSubject();
 	}
 
 	public Proxy(Object... objects) {
