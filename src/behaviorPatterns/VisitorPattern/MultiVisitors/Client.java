@@ -30,8 +30,7 @@ class Client {
 		li.setJob("Database Admin");
 		li.setName("Li Si");
 		li.setSalary(1320);
-		li.setSalary(Employee.MALE);
-		System.out.println(li.getSalary());
+		li.setSex(Employee.MALE);
 		employees.add(li);
 		
 		Manager wang=new Manager();
