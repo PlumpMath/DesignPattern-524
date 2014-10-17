@@ -1,6 +1,6 @@
 package behaviorPatterns.StrategyPattern.Framework;
 
-public class Context {
+class Context {
 	Strategy strategy=null;
 	
 	public Context(Strategy strategy) {
