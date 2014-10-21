@@ -1,0 +1,15 @@
+package structurePatterns.BridgePattern.Example;
+
+class IPod extends Product {
+
+	@Override
+	public void beProducted() {
+		System.out.println("生产iPod.");
+	}
+
+	@Override
+	public void beSelled() {
+		System.out.println("销售iPod.");
+	}
+
+}
